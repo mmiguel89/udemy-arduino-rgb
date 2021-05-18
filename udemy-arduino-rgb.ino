@@ -1,6 +1,6 @@
-#define RED_PIN 5
-#define BLUE_PIN 4
-#define GREEN_PIN 3
+#define RED_PIN 8
+#define BLUE_PIN 7
+#define GREEN_PIN 6
 #define WAIT_FOR 1000
 
 void setup() {
